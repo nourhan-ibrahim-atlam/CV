@@ -1,10 +1,10 @@
-## 📄 Simple CV: Nourhan Atlam - Front-end Developer
+## 📄 Simple CV: Mohamed Atlam - Front-end Developer
 
 [Image of X]
 
 ## 🌟 Project Overview
 
-This project is a simple, clean, and modern Curriculum Vitae (CV) designed specifically for Mohamed Atlam, a Front-end Developer. The design aims to present the developer's essential information, educational background, professional experience, and technical/language skills in an easily digestible and visually appealing format.
+This project is a simple, clean, and modern Curriculum Vitae (CV) designed specifically for nourhan Atlam, a Front-end Developer. The design aims to present the developer's essential information, educational background, professional experience, and technical/language skills in an easily digestible and visually appealing format.
 
 ## 🚀 Key Features
 
@@ -28,8 +28,8 @@ This project is a simple, clean, and modern Curriculum Vitae (CV) designed speci
 
 .
 ├── Images/
-│   ├── icon.jpg      # Favicon for the page
-│   └── woman.png      # Profile picture
+│   ├── icon-cv.png      # Favicon for the page
+│   └── my-img.jpg       # Profile picture
 ├── CSS/
 │   └── style.css        # All styling and layout rules
 └── index.html           # The main CV file
@@ -63,6 +63,6 @@ This project is primarily a personal CV. However, any suggestions for design or 
 
 ## 👤 Developer Contact
 
-  * Name: Nourhan Atlam
+  * Name: nourhan Atlam
   * Role: Front-end developer
   * Email: nourhanatlam@492gmail.com
