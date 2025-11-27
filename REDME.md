@@ -1,4 +1,4 @@
-## 📄 Simple CV: Mohamed Atlam - Front-end Developer
+## 📄 Simple CV: Nourhan Atlam - Front-end Developer
 
 [Image of X]
 
