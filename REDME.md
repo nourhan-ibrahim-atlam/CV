@@ -1,6 +1,5 @@
 ## 📄 Simple CV: Nourhan Atlam - Front-end Developer
 
-[Image of X]
 
 ## 🌟 Project Overview
 
