@@ -34,6 +34,7 @@ This project is a simple, clean, and modern Curriculum Vitae (CV) designed speci
 │   └── style.css        # All styling and layout rules
 └── index.html           # The main CV file
 
+
 ## 💻 Setup and Running Instructions
 
 1.  Clone the repository:
